@@ -1,3 +1,11 @@
+* {
+  text-decoration: none;
+}
+
+a:visited {
+  color: none
+}
+
 body {
   margin: 0;
   padding: 0;
